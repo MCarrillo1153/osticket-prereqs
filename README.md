@@ -69,7 +69,7 @@ Download/install VC_redist.x86.exe.
 <img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
 </p>
 <p>
-Ddsafsdf
+Download/Install MySQL 5.5.62 (mysql-5.5.62-win32.msi) Double click > Click I "agree" > select TYPICAL > INSTALL Launch configuration Wizard (after install) 
 </p>
 <br />
 
@@ -85,6 +85,6 @@ a;sdflkja;sdlkfj
 <img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
 </p>
 <p>
-Dasdf
+Dow
 </p>
 <br />
