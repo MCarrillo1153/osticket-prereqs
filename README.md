@@ -3,8 +3,11 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+In this tutorial, I will guide you through the process of setting up osTicket on a Azure VM(virtual machine). This tutorial assumes you have a VM set up with at least 2 virtual CPUs and logged into with remote desktop so please create a VM before continuing. This VM will be utilized as our server where ticket requests come through. Here are the necessary <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">installation files</a> needed. (Note: For some reason edge is preventing you from installing certain files so please use chrome to download these files) <br />
 
+</p>
+<img src="https://imgur.com/a/2jjQLFb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
