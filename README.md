@@ -37,14 +37,54 @@ First we are going to enable IIS (internet information services). To do that go 
 <img src="https://i.imgur.com/6pToNtB.png" height="80%" width="80%"/>
 </p>
 <p>
-Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">installation files</a>.
+Download/install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">installation files</a>.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5VVPcJO.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create the directory C:\PHP on the root of the (C:) Drive. To do this open File Explorer > This PC > Windows (C:) Drive > Right Click to add a new folder > rename it to "PHP".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UD916BS.png" height="80%" width="80%"/>
+</p>
+<p>
+Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) then unzip into C:PHP (the new folder you just created)
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
+</p>
+<p>
+Download/install VC_redist.x86.exe.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
+</p>
+<p>
+Ddsafsdf
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
+</p>
+<p>
+a;sdflkja;sdlkfj
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
+</p>
+<p>
+Dasdf
 </p>
 <br />
