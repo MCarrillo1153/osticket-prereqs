@@ -66,25 +66,79 @@ Download/install VC_redist.x86.exe.
 <br />
 
 <p>
-<img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/70lv1s0.png" height="80%" width="80%"/>
 </p>
 <p>
-Download/Install MySQL 5.5.62 (mysql-5.5.62-win32.msi) Double click > Click I "agree" > select TYPICAL > INSTALL Launch configuration Wizard (after install) 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/asNlqbU.png" height="80%" width="80%"/>
 </p>
 <p>
-a;sdflkja;sdlkfj
+<img src="https://i.imgur.com/ztnjCF7.png" height="80%" width="80%"/>
+</p>
+<p>
+Download/Install MySQL 5.5.62 (mysql-5.5.62-win32.msi) Double click > Click I "agree" > select TYPICAL > INSTALL Launch configuration Wizard (after install). Select STANDARD CONFIGURATION > Select INSTALL AS WINDOWS SERVICE (make sure "Launch my sql server..." is checked) > "Root" is the default username, create any password ex: "Password1".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/nKOjKNb.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/YCw16Dc.png" height="80%" width="80%"/>
 </p>
 <p>
-Dow
+<img src="https://i.imgur.com/qkCppgS.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/K0s5eyn.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/oJOQaDh.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/Ylevyd9.png" height="80%" width="80%"/>
+</p>
+<p>
+Open IIS as an Admin, register PHP, restart the server. Tpe IIS in start menu > Click on RUN AS ADMINISTRATOR > Select PHP MANAGER > Select Register new PHP Version > Click BROWSE(three dots) > Select PHP CGI in the PHP folder located in the (C:) Drive (make sure php is exectuable). > OK > Click RESTART.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/AGrXGi5.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/muyLsUs.png" height="80%" width="80%"/>
+</p>
+<p>
+Install osTicket v1.15.8 and drag the "UPLOAD" folder into wwwroot folder and rename the "UPLOAD" folder to "osTicket"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Y9l4sMb.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/cIFOPcH.png" height="80%" width="80%"/>
+</p>
+<p>
+Open IIS > Click RESTART > Sites > Default > osTicket (double-click) > Browse 80*
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MyBqXGG.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/hyVyaK0.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/JiC2NYZ.png" height="80%" width="80%"/>
+</p>
+<p>
+If everything was done correctly you should have ended up ast the osTicket webpage. NOTE: PHP extensions are disbaled to enable PHP extensions, go back to IIS > Sites > Default Web Site > osTicket > php manager > Click on enable or disable PHP extensions. Scroll down the list to find: Php_imap.dil, Php_intl.dil, Php_opache.dil. Click enable exstensions and restart the server. Notice when you go back to the osTicket site there are 2 new green check marks and only 2 red X's left.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/riCIv1E.png" height="80%" width="80%"/>
+</p>
+<p>
+Before continuing on osTicket, go back and download/install HeidiSQL.
 </p>
 <br />
