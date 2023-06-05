@@ -111,7 +111,7 @@ Open IIS > Click RESTART > Sites > Default > osTicket (double-click) > Browse 80
 </p>
 <br />
 
-If everything was done correctly you should have ended up ast the osTicket webpage. NOTE: PHP extensions are disbaled to enable PHP extensions, go back to IIS > Sites > Default Web Site > osTicket > php manager > Click on enable or disable PHP extensions. Scroll down the list to find: Php_imap.dil, Php_intl.dil, Php_opache.dil. Click enable exstensions and restart the server. Notice when you go back to the osTicket site there are 2 new green check marks and only 2 red X's left.
+If everything was done correctly you should have ended up ast the osTicket webpage. NOTE: PHP extensions are disabled to enable PHP extensions, go back to IIS > Sites > Default Web Site > osTicket > php manager > Click on enable or disable PHP extensions. Scroll down the list to find: Php_imap.dil, Php_intl.dil, Php_opache.dil. Click enable exstensions and restart the server. Notice when you go back to the osTicket site there are 2 new green check marks and only 2 red X's left.
 </p>
 <p>
 <img src="https://i.imgur.com/MyBqXGG.png" height="80%" width="80%"/>
